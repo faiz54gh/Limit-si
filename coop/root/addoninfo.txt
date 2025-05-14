@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    addonSteamAppID        550
+    addontitle             "tannnkkkk run! (coop)"
+    addonversion           "2"
+    addonauthor            "FAiZU."
+    addonDescription       "Limit SI for stream"
+}
